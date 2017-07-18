@@ -10,7 +10,7 @@ Most lecture have a corresponding jupyter notebook (Python3) illustrating the co
 
 If you want to fully enjoy the notebooks make sure all requirements are installed by running :
 ```sh
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 # By the Way :
